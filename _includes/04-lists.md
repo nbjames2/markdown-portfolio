@@ -1,3 +1,3 @@
-*Beer
-*Trampolines
-*Computers
+* Beer
+* Trampolines
+* Computers
